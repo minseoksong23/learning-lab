@@ -24,6 +24,10 @@
 ## Stanford Convex Optimization 263A
 This folder includes implementations of various optimization problems using CVX, alongside a comparison of different descent schemes developed from scratch. Additionally, I have implemented a basic linear programming solution from the ground up using the Newton method.
 
+## Systems
+
+- **[Pintos](systems/pintos/)**: Imported with full available history from [minseoksong23/pintos-project](https://github.com/minseoksong23/pintos-project) at commit `0a31ce2c8e9d72417b078fdee4b2a79925b141d5`. See its [upstream acknowledgements](systems/pintos/README.md#acknowledgement) and [license notices](systems/pintos/src/LICENSE).
+
 ## CS50w
 - project 0: html
 - project 1: Django
